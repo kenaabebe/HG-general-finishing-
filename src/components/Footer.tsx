@@ -31,13 +31,14 @@ export default function Footer() {
             <ul className="space-y-4 text-sm text-white/70">
               <li><a href="https://t.me/+3A8utdsXPMswN2M0" className="hover:text-white transition-colors">Telegram</a></li>
               <li><a href="https://www.fb.com/l/6lp1kJRRR" className="hover:text-white transition-colors">Facebook</a></li>
+              <li><a href="https://www.tiktok.com/@hg_interior1" className="hover:text-white transition-colors">TikTok</a></li>
             </ul>
           </div>
         </div>
         
         <div className="pt-10 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-6">
           <p className="text-[10px] uppercase tracking-widest text-white/30">
-            © 2024 HG General Finishing. All Rights Reserved.
+            © 2026 HG General Finishing and Interior Design. All Rights Reserved.Kena Abebe
           </p>
           <div className="flex gap-8 text-[10px] uppercase tracking-widest text-white/30">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
